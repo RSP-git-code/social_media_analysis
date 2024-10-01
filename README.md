@@ -14,7 +14,7 @@ This project represents social media usage among U.S. citizens aged 18-29 in pie
 1. **Clone the repository** to your local machine from GitHub.
 2. **Install the required dependencies**: Make sure to install `numpy`, `matplotlib`, and `pandas` using a package manager like `pip`.
 3. **Add the dataset**: Ensure that the `Social_media_usage.xlsx` file (containing the social media data) is placed in the same directory as the `main.py` script.
-4. **Run the project** by executing the `main.py` script in your Python environment to generate the pie chart.
+4. **Run the project** by executing the `social_media_usage.py` script in your Python environment to generate the pie chart.
 
 ## Data Source
 - Pew Research: Data on social media usage among U.S. citizens : https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=5b319c90-7363-4881-8e6f-f98925683a2f.
