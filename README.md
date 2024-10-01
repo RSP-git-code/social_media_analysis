@@ -21,5 +21,5 @@ This project represents social media usage among U.S. citizens aged 18-29 in pie
 
 ## Visualization
 ### Social Media Usage (Ages 18-29)
-![Social Media Usage Pie Chart]![image](https://github.com/user-attachments/assets/d33c362d-b33e-4af6-9d05-729170c91265)
+![image](https://github.com/user-attachments/assets/d33c362d-b33e-4af6-9d05-729170c91265)
 
