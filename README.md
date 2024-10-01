@@ -4,7 +4,7 @@ This project represents social media usage among U.S. citizens aged 18-29 in pie
 
 ## Features
 - **Data Analysis**: Analyzed social media usage data using Pandas.
-- **Visualization**: Displays the percentage distribution of social media platforms among young users through a pie chart.
+- **Visualization**: Displays the percentage distribution of social media platforms among young users through a pie chart using matplotlib.
 
 ## Files
 - `Social_media_usage.xlsx`: Contains the social media usage data for U.S. citizens.
