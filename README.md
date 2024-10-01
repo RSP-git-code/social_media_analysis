@@ -18,7 +18,6 @@ This project represents social media usage among U.S. citizens aged 18-29 in pie
 
 ## Data Source
 - Pew Research: Data on social media usage among U.S. citizens : https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=5b319c90-7363-4881-8e6f-f98925683a2f.
-- malpltolib documentation
 
 ## Visualization
 ### Social Media Usage (Ages 18-29)
